@@ -1,22 +1,17 @@
-# NM_FRIDAYBATCH_FSWD_PROJECT
+# NM_DARIHA-FEBI-MOL_FRIDAYBATCH_FSWD_PROJECT
 
 
-Project implemented by: 
+Name:Dariha Febi Mol.A
 
 
-Name:
+ID:au960221104047
 
 
-ID:
+College name:Arunachala College of Engineering for Women
 
 
-College name:
+username: student
 
 
-Login credentials: 
-
-username: root
-
-
-Password: root
+Password: 12345
 
